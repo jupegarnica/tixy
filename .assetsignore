@@ -1,0 +1,14 @@
+# Ficheros que NO se sirven como assets estáticos
+.git
+.github
+.gitignore
+.wrangler
+.DS_Store
+.vite
+dist
+deno.json
+deno.lock
+scripts.yml
+serve.ts
+wrangler.jsonc
+.assetsignore
