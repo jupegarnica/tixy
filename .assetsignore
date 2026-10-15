@@ -12,3 +12,4 @@ scripts.yml
 serve.ts
 wrangler.jsonc
 .assetsignore
+node_modules
